@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+scikit-learn
+flask
+# 선택 (없어도 실행됨): lightgbm, duckdb
