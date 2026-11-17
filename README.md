@@ -7,3 +7,4 @@ tools/export_demo.py    DB의 테스트 고객과 위험 점수를 index.html �
 app/app.py              서버(Flask) 버전: index.html 과 같은 기능. 발송·열람 기록과 수신 동의를 DB에 저장하고
                         여러 기기가 공유한다 (PC에서 발송 -> 다른 기기의 고객 화면에 알림 도착)
 requirements.txt        필요한 파이썬 패키지
+
